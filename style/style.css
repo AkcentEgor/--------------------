@@ -72,4 +72,7 @@ h1 {
 .control {
     font-size: 26px;
     color:crimson;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 900;
 }
