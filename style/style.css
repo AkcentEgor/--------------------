@@ -32,7 +32,8 @@ body {
     top: 427px;
 }
 
-.text {
+.text
+.control {
     position: absolute;
     text-align: center;
     margin: 0 auto;
